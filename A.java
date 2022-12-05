@@ -1,7 +1,7 @@
-package com.strictfp_access_modifier;
+package com.default_access_modifier1;
 
-public class A {
+ class A {
 public static void main(String[]args){
-	System.out.println(13324.53252*2537/23);
+	A a1=new A();
 }
 }
